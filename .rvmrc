@@ -1,1 +1,1 @@
-rvm use --create ruby-2.0.0-p0@dummy
+rvm use ruby-2.0.0@dummy --create --fuzzy
